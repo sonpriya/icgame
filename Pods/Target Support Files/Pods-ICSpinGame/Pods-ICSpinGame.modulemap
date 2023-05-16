@@ -1,0 +1,6 @@
+framework module Pods_ICSpinGame {
+  umbrella header "Pods-ICSpinGame-umbrella.h"
+
+  export *
+  module * { export * }
+}
